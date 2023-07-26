@@ -106,3 +106,13 @@ agent.load_models()  # Load the previously saved models' parameters
 Please note that you need to replace `YourEnvironment` with the actual environment class you are using.
 
 This covers the basic usage of the code for training multi-agent RL agents using Decomposed Off-Policy Gradients based on SAC. You may need to modify the code to suit your specific environment and requirements. Also, it's essential to tune hyperparameters and experiment with different configurations for optimal performance.
+
+Sure! Here's the References section with the citation for the paper "Dop: Off-policy multi-agent decomposed policy gradients":
+
+---
+
+## References
+
+Wang, Y., Han, B., Wang, T., Dong, H., & Zhang, C. (2020). Dop: Off-policy multi-agent decomposed policy gradients. In *International Conference on Learning Representations*.
+
+---

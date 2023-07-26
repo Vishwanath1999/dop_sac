@@ -21,8 +21,6 @@ Sure! Let's add an explanation of the Mixer Network in detail to the README file
 
 ---
 
-### 3. `MixerNetwork`:
-
 The `MixerNetwork` is a critical component of the multi-agent system, responsible for aggregating the Q-values of all agents to produce a global Q-value. This allows for coordination and cooperation among the agents to optimize their collective behavior.
 
 #### Mixer Network Architecture:
